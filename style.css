@@ -1,0 +1,102 @@
+.a{border-bottom: 2px dashed rgb(37, 109, 168);
+border-top: 2px dashed rgb(37, 109, 168);
+background-color: rgb(228, 240, 250);}
+.b{border-bottom: 3px dashed  rgb(192, 220, 247);
+border-top: 3px dashed rgb(192, 220, 247);
+background-color: rgb(10, 68, 122) ;}
+.c{color:rgb(192, 220, 247) ;}
+body{background-color: rgb(243, 250, 255) ;}
+#A{border: 3px dashed rgb(10, 68, 122);}
+.e{border-bottom: 3px dashed  rgb(10, 68, 122) ;
+border-top: 3px dashed  rgb(10, 68, 122);}
+.f{background-color: rgb(10, 68, 122);
+color: rgb(192, 220, 247) ;
+text-align: center;}
+.g{width: 250px;
+height: 40px;
+background-color:  rgb(10, 68, 122);
+color:rgb(192,220,247) ;
+text-align: center;
+border-radius: 20px;
+border: 2px dashed rgb(192,220,247);}
+.h{width: 150px;
+    height: 40px;
+    background-color:  rgb(10, 68, 122);
+    color:rgb(192,220,247) ;
+    text-align: center;
+    border-radius: 20px;
+border: 2px dashed rgb(192,220,247);}
+.i{color:  rgb(10, 68, 122);}
+.k{color: rgb(10, 68, 122);
+text-align: center;
+text-transform: uppercase;
+border-bottom:  3px dashed rgb(10, 68, 122);
+border-top: 3px dashed rgb(10, 68, 122);
+background-color:  rgb(152, 195, 236); }
+h3{color: rgb(10, 68, 122);
+text-decoration: underline double  rgb(152, 195, 236) ;
+text-transform: uppercase;}
+h4{color:  rgb(10, 68, 122);
+text-decoration:underline dotted 2px rgb(10, 68, 122) ;
+text-transform: uppercase;}
+.j{border: 2px dashed rgb(10, 68, 122);}
+.l{border-bottom: 3px dashed  rgb(168, 190, 211);
+background-color: rgb(10, 68, 122);
+text-align: center;}
+.m{color:  rgb(192,220,247);}
+.abc{background-color: rgb(10, 68, 122);
+color:  rgb(152, 195, 236);
+text-align: center;}
+#xyz{font-size: larger;
+color: rgb(10, 68, 122);
+background-color:  rgb(152, 195, 236);
+border-radius: 10px;
+border: 2px dashed  rgb(10, 68, 122);}
+#mno{border: 2px dashed  rgb(10, 68, 122);}
+.pqr{color:  rgb(10, 68, 122) ;}
+.jkl{background-color:  rgb(198, 214, 230);
+border: 2px dashed rgb(10, 68, 122);
+color: black;}
+#a1{background-color:  rgb(198, 214, 230) ;
+color:  rgb(10, 68, 122);
+border: 2px dashed rgb(10, 68, 122);}
+#iz{text-transform: uppercase;
+color:  rgb(10, 68, 122);
+font-family: serif;
+font-size: xx-large;text-align: center;
+border: 3px dashed  rgb(10, 68, 122);
+background-color:  rgb(152, 195, 236);}
+#f6{border: 3px dashed rgb(10, 68, 122);
+color:  rgb(10, 68, 122) ;
+background-color:  rgb(152, 195, 236);}
+.r1{background-color:  rgb(10, 68, 122);
+color: rgb(198, 214, 230);}
+.d5{color:  rgb(13, 78, 138);
+background-color:  rgb(152, 195, 236);
+border: 3px dashed  rgb(10, 68, 122);}
+.tg{border-bottom:  2px dashed  rgb(10, 68, 122);}
+.f1{text-align: center;
+background-color:  rgb(10, 68, 122);
+color:  rgb(198, 214, 230);}
+.cv{color:   rgb(10, 68, 122);
+text-transform: uppercase;
+text-align: center;
+background-color:  rgb(152, 195, 236);}
+.y1{color:  rgb(10, 68, 122);
+align-content: center;
+text-align: center;
+}
+.p1{border-bottom:  3px dashed rgb(10, 68, 122);
+background-color: rgb(198, 214, 230);
+border-top:    3px dashed rgb(10, 68, 122);}
+.ubi{border: 2px solid rgb(10, 68, 122);}
+#h1{width:250px;
+height: 350px;
+border: 3px dashed rgb(10, 68, 122);}
+#p8{border:  3px dashed  rgb(10, 68, 122);
+    background-color:  rgb(152, 195, 236);
+text-align: center;
+font-size:larger;
+color:  rgb(6, 49, 90);
+font-family: 'serif';}
+#idn{color:  rgb(10, 68, 122);}
